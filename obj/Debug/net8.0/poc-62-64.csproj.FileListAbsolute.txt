@@ -1,0 +1,14 @@
+C:\Users\swag\poc-62-64\bin\Debug\net8.0\poc-62-64.exe
+C:\Users\swag\poc-62-64\bin\Debug\net8.0\poc-62-64.deps.json
+C:\Users\swag\poc-62-64\bin\Debug\net8.0\poc-62-64.runtimeconfig.json
+C:\Users\swag\poc-62-64\bin\Debug\net8.0\poc-62-64.dll
+C:\Users\swag\poc-62-64\bin\Debug\net8.0\poc-62-64.pdb
+C:\Users\swag\poc-62-64\obj\Debug\net8.0\poc-62-64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swag\poc-62-64\obj\Debug\net8.0\poc-62-64.AssemblyInfoInputs.cache
+C:\Users\swag\poc-62-64\obj\Debug\net8.0\poc-62-64.AssemblyInfo.cs
+C:\Users\swag\poc-62-64\obj\Debug\net8.0\poc-62-64.csproj.CoreCompileInputs.cache
+C:\Users\swag\poc-62-64\obj\Debug\net8.0\poc-62-64.dll
+C:\Users\swag\poc-62-64\obj\Debug\net8.0\refint\poc-62-64.dll
+C:\Users\swag\poc-62-64\obj\Debug\net8.0\poc-62-64.pdb
+C:\Users\swag\poc-62-64\obj\Debug\net8.0\poc-62-64.genruntimeconfig.cache
+C:\Users\swag\poc-62-64\obj\Debug\net8.0\ref\poc-62-64.dll
